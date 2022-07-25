@@ -38,7 +38,7 @@ class _HomeState extends State<Home> {
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 25),
               child: Text(
-                  'Discover attractive login, signup and forgot passoword and and implement in your code.',
+                  'Discover attractive login, signup and forgot password and and implement it in your code.',
                   textAlign: TextAlign.center,
                   style: defaultFontStyle),
             ),
