@@ -3,6 +3,12 @@
 Login, Signup, Forgot password screens
 
 Here is some screenshot of the project
+<div>
+    <img src="/screenshots/home.png" width="300px"</img> 
+    <img src="/screenshots/login.png" width="300px"</img> 
+    <img src="/screenshots/register.png" width="300px"</img> 
+    <img src="/screenshots/forgot-password.png" width="300px"</img> 
+</div>
 
 ## Getting Started
 
