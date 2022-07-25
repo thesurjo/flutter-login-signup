@@ -1,6 +1,8 @@
 # login_screens
 
-A new Flutter project.
+Login, Signup, Forgot password screens
+
+Here is some screenshot of the project
 
 ## Getting Started
 

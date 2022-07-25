@@ -1,26 +1,26 @@
 import 'package:flutter/material.dart';
 import 'package:login_screens/export/utils.dart';
 
-class DefaultButton extends StatelessWidget {
-  final String title;
+class SocialBox extends StatelessWidget {
+  final Widget icon;
   final VoidCallback onpress;
-  const DefaultButton({Key? key, required this.title, required this.onpress}) : super(key: key);
+  const SocialBox({Key? key, required this.icon, required this.onpress})
+      : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 25.0, vertical: 10.0),
+      padding: const EdgeInsets.symmetric(horizontal: 5.0),
       child: TextButton(
         onPressed: onpress,
         style: TextButton.styleFrom(
             primary: buttontextcolor,
             backgroundColor: primarycolor,
             textStyle: buttonFontStyle,
-            padding: const EdgeInsets.symmetric(vertical: 20),
-            minimumSize: const Size.fromHeight(50),
+            padding: const EdgeInsets.all(10),
             shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(17.0))),
-        child: Text(title),
+        child: icon,
       ),
     );
   }
