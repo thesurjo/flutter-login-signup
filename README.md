@@ -6,7 +6,7 @@ Login, Signup, Forgot password screens.
 
 Some screenshots of the application.
 <div>
-    <img src="/screenshots/home.png" width="300px"</img> 
+    <img src="/screenshots/onboarding.png" width="300px"</img> 
     <img src="/screenshots/login.png" width="300px"</img> 
     <img src="/screenshots/register.png" width="300px"</img> 
     <img src="/screenshots/forgot-password.png" width="300px"</img> 
