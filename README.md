@@ -2,9 +2,9 @@
 
 Flutter Version: 3.0.5
 
-Login, Signup, Forgot password screens
+Login, Signup, Forgot password screens.
 
-Some screenshots of the application
+Some screenshots of the application.
 <div>
     <img src="/screenshots/home.png" width="300px"</img> 
     <img src="/screenshots/login.png" width="300px"</img> 
